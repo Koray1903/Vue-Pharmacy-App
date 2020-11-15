@@ -1,4 +1,4 @@
-# pharmacyapp
+# vuepharmacyapp
 
 ## Project setup
 ```
